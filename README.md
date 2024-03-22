@@ -12,8 +12,9 @@
 </p>
 
 ## **About Me**
-<picture><img align="right" src="assets/computer-anm.gif" width = 250px></picture>
+<picture><img align="right" src="assets/computer-anm.gif" width = 200px></picture>
 <br>
+
 - First year Undergraduate at Newcastle University.
 - Partaking in a Computer Science degree.
 - Self-taught in several languages as shown below.
