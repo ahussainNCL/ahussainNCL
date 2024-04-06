@@ -7,11 +7,9 @@
     <a href="https://github.com/AbdullahHDev/AbdullahHDev"><img src="https://img.shields.io/github/stars/AbdullahHDev/AbdullahHDev.svg"></a>
 </p>  
 </p>  
-<p align="left">
-  <img src="assets\top-banner.png" alt="top-banner" />
-</p>
 
-## 👤 **About Me**
+
+##  **About Me**
 <br>
 
 - First year Undergraduate at Newcastle University.
@@ -22,8 +20,7 @@
 
 
 
-## 💡 **Skills**
-### **Languages:**
+##  **Languages**
 <p align="left">
   <a href="https://www.php.net/"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/></a><br>
   <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/></a><br>
@@ -33,7 +30,7 @@
   <a href="https://soliditylang.org/"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-363636.svg?&style=for-the-badge&logo=solidity&logoColor=white"/></a>
 </p>
 
-### **Tools:**
+## **Tools:**
 <p align="left">
   <a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/></a><br>
   <a href="https://www.jetbrains.com/idea/"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white"/></a><br>
