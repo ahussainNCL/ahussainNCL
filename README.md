@@ -12,7 +12,7 @@
 ##  **About Me**
 <br>
 
-- First year Undergraduate at Newcastle University.
+- Second year Undergraduate at Newcastle University.
 - Partaking in a Computer Science degree.
 - Self-taught in several languages as shown below.
 - Developed several projects showcasing my abilities.
