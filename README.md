@@ -12,7 +12,7 @@
   ### 2ⁿᵈ Year Computer Science Undergraduate @ Newcastle University
   *Aspiring AI/ML Developer | Blockchain Enthusiast*
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/abdullahalihussain)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/abdullahalihussain)
   [![Email](https://img.shields.io/badge/Email-Contact-%23EA4335?style=for-the-badge&logo=gmail)](mailto:A.A.Hussain1@newcastle.ac.uk)
   [![Visitors](https://komarev.com/ghpvc/?username=ahussainNCL&style=for-the-badge&color=blueviolet)](https://github.com/ahussainNCL)
   
