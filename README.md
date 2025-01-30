@@ -22,7 +22,6 @@
 
 ## 🧑💻 About Me
 
-<img align="right" src="https://raw.githubusercontent.com/ahussainNCL/YOUR_REPO_NAME/main/coding.gif" width="300" alt="Coding Animation">
 
 - 🔭 Currently exploring **Deep Learning Architectures** & **Generative AI**
 - 🌱 Learning **MLOps** and **Cloud AI Deployment**
